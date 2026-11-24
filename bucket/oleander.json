@@ -1,16 +1,16 @@
 {
-    "version": "0.26.0",
+    "version": "0.27.0",
     "description": "oleander CLI: query the lake and run Spark jobs on oleander.",
     "homepage": "https://oleander.dev/docs/cli",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://oleander-cli-releases.s3.amazonaws.com/binaries/v0.26.0/oleander-windows-x64.zip",
-            "hash": "d835dc79b3ca4d024ae46cd55ddaec218a278d2ae9ad6ced12afb41cf99d463b"
+            "url": "https://oleander-cli-releases.s3.amazonaws.com/binaries/v0.27.0/oleander-windows-x64.zip",
+            "hash": "f191ce4414a98c89d17b415cfe70cbc433e644d730e1422866c400aeb751c36a"
         },
         "arm64": {
-            "url": "https://oleander-cli-releases.s3.amazonaws.com/binaries/v0.26.0/oleander-windows-arm64.zip",
-            "hash": "d583502c9bd983e63daafedaab5bd31b83cecacb57bb149a7711aec3317c79d7"
+            "url": "https://oleander-cli-releases.s3.amazonaws.com/binaries/v0.27.0/oleander-windows-arm64.zip",
+            "hash": "b930cbf681c5ed36a122fe1c400c6b0596eb484c76f3ac9b606b9b80844d3e12"
         }
     },
     "bin": "oleander.exe",
